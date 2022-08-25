@@ -1,36 +1,31 @@
 <!DOCTYPE html>
-<html lang="es">
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Transporte Raul</title>
-    <link rel="stylesheet" href="../css/style.css"> 
+    <title>Document</title>
+    <link rel="stylesheet" href="./css/bootstrap.min.css">
+    <link rel="stylesheet" href="./js/bootstrap.bundle.min.js">
+
+    <link rel="stylesheet" href="./css/style.css">
+
+
 </head>
+<body>
+    <header class="header-contenedor">
+    <div class="titulo-principal">TRANSPORTE RAUL</div>
+    <div class="subtitulo-principal">-EMPRESA FAMILIAR-</div>
 
+    
 
-<body class="body">
-    
-    <header class="barra-de-navegacion">
-        <div>  
-            <h1 class="Transporte-Raul">TRANSPORTE RAUL</h1> 
-            <H2 class="Empresa-familiar">-EMPRESA FAMILIAR-</H2>
-        </div>
-        
-        
-    
-                                        <!-- texto-telefono -->
- <div >   
+<!-- texto-telefono -->
+<div>   
     <div class="texto-telefono">
-        <tr >
-            <th>Telefonoo:</th>
-        </tr>
-    </div>
-    
         <div>
             <tr>
                 <th>
-                    <img src="../fondos/carta.png" alt="reloj" class="logo-telefono">
+                    <img src="./proyecto/telefono.png" alt="reloj" class="logo-telefono"> Telefono:
                 </th>
             </tr>
         </div>
@@ -43,18 +38,14 @@
     
     
     
+    
                                         <!-- texto-email -->
     
     <div class="texto-email">
-        <tr >
-            <th>E-mail</th>
-        </tr>
-    </div>
-    
         <div>
-            <tr>
+            <tr class="tr-email">
                 <th>
-                    <img src="../fondos/telefono.png" alt="reloj" class="logo-email">
+                    <img src="./proyecto/carta.png" alt="reloj" class="logo-email">E-mail
                 </th>
             </tr>
         </div>
@@ -64,105 +55,67 @@
                     <td>transporteRaul@gmail.com</td> 
                 </tr>
             </div>
-</div>   
+
+ <!-- texto-atencion -->
     
-                                        <!-- texto-atencion -->
-    
-    <div class="texto-atencion">
-        <tr >
-            <th>Horario de atencion</th>
+ <div class="texto-atencion">
+    <div>
+        <tr>
+            <th>
+                <img src="./proyecto/reloj.png" alt="reloj" class="logo-reloj">Horario de atencion
+            </th>
         </tr>
     </div>
-    
-        <div>
+
+        <div class="reloj">
             <tr>
-                <th>
-                    <img src="../fondos/reloj.png" alt="reloj" class="logo-reloj">
-                </th>
+                <td>07:00 - 21:00</td> 
             </tr>
         </div>
-    
-            <div class="reloj">
-                <tr>
-                    <td>07:00 - 21:00</td> 
-                </tr>
-            </div>
-    
-    
-    
-    
-            <!-- lineas-barra-navegacion -->
-   
-    <div class="linea-1">
-        <img src="../fondos/lineas-divisoras.png" alt="linea-1">
-    </div>
-    
-    <div class="linea-2">
-        <img src="../fondos/linea-divisoras-2.png" alt="linea-2">
-    </div>
-    
-    
-    <div class="punto-1">
-        <img src="../fondos/punto-1.png" alt="punto-1">
-    </div>
-    
-    <div class="punto-2">
-        <img src="../fondos/punto-1.png" alt="punto-2">
-    </div>
-    
-    <div class="punto-3">
-        <img src="../fondos/punto-1.png" alt="punto-3">
-    </div>
-    
-    <div class="punto-4">
-        <img src="../fondos/punto-1.png" alt="punto-4">
-    </div>
- 
-    
-    
-       <!-- BARRA DE NAVEGACION -->
-    
-       <nav >
-        <div class="barra-pagina-principal">
-            <a href="./index.html" class="BARRA-DE-NAVEGACION" >Inicio</a> 
-            <a href="../index.html/Servicios/Servicios.html" rel="noopener noreferrer" class="BARRA-DE-NAVEGACION">Servicios </a> 
-            <a href="./zonas/Zonas.html" rel="noopener noreferrer" class="BARRA-DE-NAVEGACION">Zonas</a> 
-            <a href="./contactanos/Contactanos.html" rel="noopener noreferrer" class="BARRA-DE-NAVEGACION">Contactar</a> 
-            <a href="./Personal/Personal.html" rel="noopener noreferrer" class="BARRA-DE-NAVEGACION">Personal</a>
-        </div>
+
+</div>   
+
+
+    <nav class="nav">
+        <ul>
+            <li class="li"><a href="./index.html">Inicio</a></li>
+            <li class="li"><a href="./proyecto/Servicios.html">Servicios</a></li>
+            <li class="li"><a href="./proyecto/Zonas.html">Zonas</a></li>
+            <li class="li"><a href="./proyecto/contactanos.html">Contactar</a></li>
+            <li class="li"><a href="./proyecto/Personal.html">Personal</a></li>
+        </ul>
     </nav>
-    </header>
-    
-    
-    
-    <div class="section-PRINCIPAL">
-            <img src="../imagenes/micros-escolares.png"  alt="3 micros escolares" class="imagen-principal">
-                <h2> BIENVENIDOS A <br> TRANSPORTE RAUL</h2>
-                
-                    <p>Somos una empresa familiar de transporte <br> escolar 
-                         con mas de 20 años en el rubro <br> establecidos  en La Matanza.
-                          Con esta web <br> queremos dar  a conocer todos los servicios <br>que 
-                           podemos ofrecerles.    
-                    </p>
-            <a href="../Servicios/Servicios.html" rel="noopener noreferrer" class="section-1">Ver servicios</a> 
-    </div>
 
-    <!-- VIAJES EN COMBI -->
-<div class="informacion">
+</header>  
+
+
+
+<div class="section-PRINCIPAL">
+    <img src="./proyecto/micros-escolares.png"  alt="3 micros escolares" class="imagen-principal">
+        
+    
+</div>
+
+
+
+<!-- VIAJES EN COMBI -->
+<div class="container-fluid">
     <div class="combi">
-            <img src="../imagenes/combis-escolares.jpg"  alt="2 combis escolares">
-            <h2>VIAJES EN COMBI</h2>
-            <p> Ofrecemos el servicio de combis escolares por todo Buenos Aires. 
-                Nuestra flota de combis estan  capacitadas para llevar a 20 personas,
-                 incluyendo al conductor, equipados  con aire acondicionado  y
-                asientos semicama.</p>
-            <a href="../Servicios/Servicios.html" rel="noopener noreferrer" >LEER MAS</a>
+        <img src="./proyecto/combis-escolares.jpg"  alt="2 combis escolares">
+        <h2>VIAJES EN COMBI</h2>
+        <p> Ofrecemos el servicio de combis escolares por todo Buenos Aires. 
+            Nuestra flota de combis estan  capacitadas para llevar a 20 personas,
+            incluyendo al conductor, equipados  con aire acondicionado  y
+            asientos semicama.</p>
+        <a href="./proyecto/Servicios.html" rel="noopener noreferrer" >LEER MAS</a>
     </div>
+</div>
 
 
-    <!-- VEHICULOS -->
+
+ <div class="container-fluid">      <!-- VEHICULOS -->
     <div class="section-VEHICUOS">
-        <img src="../imagenes/micro-colito.jpg" alt=" micros escolar" >
+        <img src="./proyecto/micro-colito.jpg" alt=" micros escolar" >
         <h2>VEHICULOS</h2>
         <p>Ofrecemos transporte para colegios,
         eventos,<br> excursiones, etc. Con vehiculos
@@ -172,23 +125,19 @@
         confortable,segura y confiable desde <br>
         que suben hasta que bajan.
         </p>
-        <a href="../Servicios/Servicios.html" rel="noopener noreferrer" >LEER MAS</a>
-    </div>
-
-
-    <!-- CONFORT, SEGURIDAD Y CONFIABLE -->
-    <div class="section-CONFORT-SEGURIDAD-CONFIABLE">
-        <img src="../imagenes/asientos.jpg"  alt="asientos" class="asientos">
-        <h2>CONFORT, SEGURIDAD Y CONFIABLE</h2>
-        <p > Nuestros vehiculos estan equipados con aire acondicionado, Asientos de tela y cinturones de seguridad. preparados para viajar de forma segura y comoda.
-            
-            </p>
-        <a href="../Servicios/Servicios.html" rel="noopener noreferrer" >LEER MAS</a>
+        <a href="./proyecto/Servicios.html" rel="noopener noreferrer" >LEER MAS</a>
     </div>
 </div>
 
-
-
+ <div class="container-fluid"><!-- CONFORT, SEGURIDAD Y CONFIABLE -->
+    <div class="section-CONFORT-SEGURIDAD-CONFIABLE">
+        <img src="./proyecto/asientos.jpg"  alt="asientos" class="asientos">
+        <h2>CONFORT, SEGURIDAD Y CONFIABLE</h2>
+        <p > Nuestros vehiculos estan equipados con aire acondicionado, Asientos de tela y cinturones de seguridad. preparados para viajar de forma segura y comoda.
+        </p>
+        <a href="./proyecto/Servicios.html" rel="noopener noreferrer" >LEER MAS</a>
+    </div>
+</div>
 
 
 <!-- FOOTER -->
@@ -202,7 +151,7 @@
             informaremos sin compromiso.
             </P>
 
-        <a href="../contactanos/Contactanos.html" rel="noopener noreferrer" class="CONTACTAR">CONTACTAR</a> 
+        <a href="./proyecto/contactanos.html" rel="noopener noreferrer" class="CONTACTAR">CONTACTAR</a> 
 
             <p class="texto-footer-1">  
             © Copyright Transporte Raul. Todos los derechos reservados
@@ -210,4 +159,7 @@
             Transporte Raul 2022
             </p>
 </footer>
+
+    <script src="./js/bootstrap.bundle.min.js"></script>
 </body>
+</html>

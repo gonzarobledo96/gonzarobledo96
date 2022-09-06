@@ -1,0 +1,25 @@
+.header     {
+    .nav-item   {
+        -webkit-animation:swirl-in-fwd .6s ease-out both;
+        animation:swirl-in-fwd .6s ease-out both;
+    }
+
+    .nav-item1  {
+        animation-delay: 1s;
+    }
+    .nav-item2  {
+        animation-delay: 2s;
+    }
+    .nav-item3  {
+        animation-delay: 3s;
+    }
+    .nav-item4  {
+        animation-delay: 4s;
+    }
+    .nav-item5  {
+        animation-delay: 5s;
+    }
+}
+
+
+ @-webkit-keyframes flip-scale-down-ver{0%{-webkit-transform:scale(1) rotateY(0);transform:scale(1) rotateY(0)}50%{-webkit-transform:scale(.4) rotateY(-90deg);transform:scale(.4) rotateY(-90deg)}100%{-webkit-transform:scale(1) rotateY(-180deg);transform:scale(1) rotateY(-180deg)}}@keyframes flip-scale-down-ver{0%{-webkit-transform:scale(1) rotateY(0);transform:scale(1) rotateY(0)}50%{-webkit-transform:scale(.4) rotateY(-90deg);transform:scale(.4) rotateY(-90deg)}100%{-webkit-transform:scale(1) rotateY(-180deg);transform:scale(1) rotateY(-180deg)}}

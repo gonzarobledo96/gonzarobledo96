@@ -38,6 +38,36 @@
   margin: 0px;
 }
 
+.fa-facebook {
+  background-color: orange;
+}
+
+.fa-instagram {
+  background-color: orange;
+}
+
+.fa-whatsapp {
+  background-color: orange;
+}
+
+.CONTACTAR {
+  margin-top: 10px;
+  justify-content: center;
+  margin-bottom: 10px;
+}
+
+.solicitar-informacion {
+  margin-top: 10px;
+  justify-content: center;
+  margin-bottom: 10px;
+}
+
+.texto-footer {
+  margin-top: 10px;
+  justify-content: center;
+  margin-bottom: 10px;
+}
+
 header .nav-item {
   -webkit-animation: swirl-in-fwd 0.6s ease-out both;
   animation: swirl-in-fwd 0.6s ease-out both;

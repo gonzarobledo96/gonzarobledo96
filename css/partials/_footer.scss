@@ -41,9 +41,53 @@
                 }
     }
     
-    
-
-        
 
 
-           
+
+    // MAPS
+
+    $redes: (
+    facebook:   orange,
+    instagram: orange,
+    whatsapp: orange, 
+);
+
+@each $redsocial, $colordered in $redes {
+    .fa-#{$redsocial} {
+    background-color:$colordered ;
+    }
+}
+
+
+
+// MIXIN
+
+
+@mixin footer ($margintop, $marginBotton, $justifiContent, $fontSize, $color) {
+    margin-top: $margintop;
+    justify-content: $justificontent;
+    margin-bottom: $marginbotton;
+    font-size:$fontSize;
+    color:$color;
+}    
+
+
+
+.CONTACTAR  {
+    @include footer($margintop, $marginBotton, $justifiContent, $fontSize, $color)
+}
+
+
+.solicitar-informacion  {
+    @include footer($margintop, $marginBotton, $justifiContent, $fontSize, $color)
+}
+
+
+.texto-footer   {
+    @include footer($margintop, $marginBotton, $justifiContent, $fontSize, $color)
+}
+
+
+.texto-footer-1     {
+    @include footer($margintop, $marginBotton, $justifiContent, $fontSize, $color)
+}

@@ -1,13 +1,29 @@
+.fondo-footer {
+  background-color: rgb(214, 140, 1);
+}
+
+.fondo-footer-2 {
+  margin-left: -35px;
+  margin-right: -35px;
+  margin-top: 30px;
+  margin-bottom: -7px;
+  display: flex;
+  justify-content: center;
+  background-color: rgb(163, 106, 0);
+  padding-bottom: 20px;
+  padding-top: 20px;
+}
+
 .fa-facebook {
-  background-color: orange;
+  background-color: rgb(214, 140, 1);
 }
 
 .fa-instagram {
-  background-color: orange;
+  background-color: rgb(214, 140, 1);
 }
 
 .fa-whatsapp {
-  background-color: orange;
+  background-color: rgb(214, 140, 1);
 }
 
 header .nav-item {
@@ -33,6 +49,26 @@ header .nav-item .nav-item4 {
 header .nav-item .nav-item5 {
   -webkit-animation-delay: 1s;
           animation-delay: 1s;
+}
+
+.texto-nav {
+  font-size: 20px;
+}
+
+.texto-carrusel {
+  color: rgb(205, 134, 2);
+}
+
+.TITULO {
+  font-size: 40px;
+}
+
+.PARRAFO-TITULO {
+  font-size: 20px;
+}
+
+.boton-contactar {
+  background-color: orange;
 }
 
 @-webkit-keyframes swirl-in-fwd {

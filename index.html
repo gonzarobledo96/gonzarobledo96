@@ -15,19 +15,19 @@
   <div class="container-fluid">
     <div class="row p-3">
         <div class=" col-xs-12 col-md-6 col-lg-3 ">
-            <img class="" width="250px"  src="./contenido-multimedia/titulo-principal.png" alt="titulo-principal">
+            <img  width="250px"  src="./contenido-multimedia/titulo-principal.png" alt="titulo-principal">
         </div>
         <div class="col-xs-12 col-md-6 col-lg-2">
-            <img src="./contenido-multimedia/telefono.png" alt="reloj" width="30" height="24" class="d-inline-block align-text-top texto-telegono"> Telefono:
-            <p class="parrafo">11-64345665</p>
+          <div class="text-warning"><img src="./contenido-multimedia/telefono.png" alt="reloj" width="30" height="24" class="d-inline-block align-text-top ">Telefono:</div>
+            <p class=" texto-carrusel">11-64345665</p>
         </div>
         <div class="col-xs-12 col-md-6 col-lg-3">
-            <img src="./contenido-multimedia/carta.png" alt="reloj" width="30" height="24" class="d-inline-block align-text-top">E-mail
-            <p class="parrafo">transporteRaul@gmail.com</p>
+           <div class="text-warning"><img src="./contenido-multimedia/carta.png" alt="reloj" width="30" height="24" class="d-inline-block align-text-top">E-mail</div>
+            <p class="texto-carrusel">transporteRaul@gmail.com</p>
         </div>
         <div class="col-xs-12 col-md-6 col-lg-2">
-            <img src="./contenido-multimedia/reloj.png" alt="reloj" width="30" height="24" class="d-inline-block align-text-top">Horario de atencion
-            <p class="parrafo">07:00 - 21:00</p>
+           <div class="text-warning"><img src="./contenido-multimedia/reloj.png" alt="reloj" width="30" height="24" class="d-inline-block align-text-top">Horario de atencion</div>
+            <p class="texto-carrusel">07:00 - 21:00</p>
         </div>
         <div class="col-xs-12 col-md-6 col-lg-2 ">
             <a href="./secciones/contactanos.html"><button type="button" class="btn btn-warning text-white ms-3">Pedir presupuesto</button></a>
@@ -37,33 +37,36 @@
 
 <!-- NAVBAR -->
 
-    <nav class="navbar navbar-expand-lg navbar-dark  bg-warning">
-        <div class="container-fluid bg-warning">
+    <nav class="navbar navbar-expand-lg navbar-dark bg-warning p-3 ">
+        <div class="container-fluid bg-warning ">
             <a class="navbar-brand" href="#">Transporte Raul</a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
                 </button>
-        <div class="collapse navbar-collapse" id="navbarNav">
-            <ul class="navbar-nav">
-                <li class="nav-item">
-                <a class="nav-link active" aria-current="page" href="./index.html">inicio</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="./secciones/Servicios.html">Servicios</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="./secciones/Zonas.html">Zonas</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="./secciones/contactanos.html">Contactar</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="./secciones/Personal.html">Personal</a>
-                </li>
-            </ul>
-      </div>
+            <div class="texto-nav collapse navbar-collapse bg-black  " id="navbarNav">
+                <ul class="navbar-nav ">
+                    <li class="nav-item ">
+                    <a class="nav-link active" aria-current="page" href="./index.html">inicio</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="./secciones/Servicios.html">Servicios</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="./secciones/Zonas.html">Zonas</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="./secciones/contactanos.html">Contactar</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="./secciones/Personal.html">Personal</a>
+                    </li>
+                </ul>
+            </div>
     </div>
   </nav>
+
+  
+
 
 <!-- INFORMACION DE LA PAGINA -->
 
@@ -109,8 +112,8 @@
     <div class="card h-100 shadow p-3 mb-5 bg-body rounded">
       <img src="./contenido-multimedia/combis-escolares.jpg" class="card-img-top" alt="...">
       <div class="card-body">
-        <h5 class="card-title">VIAJES EN COMBI</h5>
-        <p class="card-text">Ofrecemos el servicio de combis escolares por todo Buenos Aires. 
+        <h5 class="card-title bg-warning text-white container-fluid border border-5 rounded border-warning">VIAJES EN COMBI</h5>
+        <p class="card-text texto-carrusel">Ofrecemos el servicio de combis escolares por todo Buenos Aires. 
           Nuestra flota de combis estan capacitadas para llevar a 20 personas,
           incluyendo al conductor, equipados con aire acondicionado  y
           asientos semicama.</p>
@@ -124,8 +127,8 @@
     <div class="card h-100 shadow p-3 mb-5 bg-body rounded">
       <img src="./contenido-multimedia/micro-colito.jpg" class="card-img-top" alt="...">
       <div class="card-body">
-        <h5 class="card-title">VEHICULOS</h5>
-        <p class="card-text">Ofrecemos transporte para colegios,
+        <h5 class="card-title bg-warning text-white container-fluid border border-5 rounded border-warning">VEHICULOS</h5>
+        <p class="card-text texto-carrusel">Ofrecemos transporte para colegios,
           eventos, excursiones, etc. Con vehiculos
           escolares nuevos, seguros, confiables y
           con a aire acondicionado. 
@@ -142,8 +145,8 @@
     <div class="card h-100 shadow p-3 mb-5 bg-body rounded">
       <img src="./contenido-multimedia/asientos-2.jpg" class="card-img-top" alt="...">
       <div class="card-body">
-        <h5 class="card-title">CONFORT, SEGURIDAD Y CONFIABLE</h5>
-        <p class="card-text">Nuestros vehiculos estan equipados con aire acondicionado, Asientos de tela y cinturones de seguridad. preparados para viajar de forma segura y comoda.</p>
+        <h5 class="card-title bg-warning text-white container-fluid border border-5 rounded border-warning">CONFORT, SEGURIDAD Y CONFIABLE</h5>
+        <p class="card-text texto-carrusel">Nuestros vehiculos estan equipados con aire acondicionado, Asientos de tela y cinturones de seguridad. preparados para viajar de forma segura y comoda.</p>
       </div>
       <div class="card">
         <a href="../index.html/secciones/Servicios.html" rel="noopener noreferrer" class="btn btn-warning text-white">LEER MAS</a>
@@ -155,37 +158,36 @@
 
 <!-- FOOTER -->
 
-<footer class="mt-4">
+<footer class="mt-4 fondo-footer ">
     <div class="container-fluid">
-        <div class="row p-4 pb-2 bg-dark text-white ">
+        <div class="row p-4 pb-2 text-white ">
             <div class="col-xs-12 col-md-4 col-lg-4 text-center">
                 <img class="img-fluid" src="./contenido-multimedia/titulo-principal.png" width="250px" alt="">
-                <p class="text-secondary mt-2">La Tablada,Bs.As</p>
-                <a href="#" rel="noopener noreferrer" class="text-decoration-none text-white">Aviso legal | Política de privacidad | <br> Política de calidad
+                <p class="text-white mt-2">La Tablada,Bs.As</p>
+                <a href="#" rel="noopener noreferrer" class="text-decoration-none text-white ">Aviso legal | Política de privacidad | <br> Política de calidad
                 </a>
             </div>
               
             <div class="col-xs-12 col-md-4 col-lg-4 text-center">
                 <p class="h5 mb-3 text-center">SOLICITAR INFORMACION</p>
                 <p>¿Necesita mas informacion sobre alguno de nuestross servicios? Pongase en contacto con nosotros y le informaremos sin compromiso.</p>
-                <a href="../index.html/secciones/contactanos.html"><button type="button" class="btn btn-warning text-white">Contactar</button></a>
+                <a href="../index.html/secciones/contactanos.html"><button type="button" class="btn btn-warning boton-contactar text-white">Contactar</button></a>
             </div>  
         
             <div class="col-xs-12 col-md-4 col-lg-4 text-center">
                 <p class="h5 mb-3 ">contactos</p>
                 <div class="mb-2">
-                    <a class="text-secondary text-decoration-none" href="#"> <i class="fab fa-instagram bg-white me-2"></i>Instagram</a>
+                    <a class="text-white text-decoration-none" href="#"> <i class="fab fa-instagram me-2"></i>Instagram</a>
                 </div>
                 <div class="mb-2">
-                    <a class="text-secondary text-decoration-none" href="#"> <i class="fab fa-facebook bg-white me-2"></i>Facebook</a>
+                    <a class="text-white text-decoration-none" href="#"> <i class="fab fa-facebook me-2"></i>Facebook</a>
                 </div>
                 <div class="mb-2">
-                    <a class="text-secondary text-decoration-none" href="#"><i class="fab fa-whatsapp bg-white me-2"></i>Whatsapp</a>
+                    <a class="text-white text-decoration-none" href="#"><i class="fab fa-whatsapp me-2 "></i>Whatsapp</a>
                 </div>
             </div>
-      
-            <div class="col-xs-12 pt-4">
-                <p class="text-white text-center">© Copyright Transporte Raul. Todos los derechos reservados
+            <div class="col-xs-12 ">
+                <p class="text-white text-center fondo-footer-2">© Copyright Transporte Raul. Todos los derechos reservados
                 Diseño web: gonzalo@gmail.com
                 Transporte Raul 2022</p>
             </div>

@@ -1,6 +1,177 @@
-@media screen and (max-width: 480px) {
-    .orden-1 {
-      
+// PC
+@media screen and (min-width: 769px) and (max-width: 991px) {
+
+    .info-nav {
+        display:grid;
+        
+    }
+
+
+
+
+    .tituloraul   {
+        text-align: center;
+        margin-bottom: 30px;
+        width: 100%;
+        font-size: 30px ;
+    }
+
+
+
+
+    .titulo-principal   {
+        text-align: center;
+        margin-bottom: 30px;
+        width: 100%;
+    }
+
+
+    .telefono {
+        text-align: center;
+        width: 100%;
+        text-align: center;
+        border-top: solid 1px;
+        border-color: orange;
+        padding-top: 10px;
+    }
+
+    .email   {
+        text-align: center;
+        border-top: solid 1px;
+        border-color: orange;
+        padding-top: 10px;
+        width: 100%;
+    }
+
+
+    .atencion   {
+        text-align: center;
+        border-top: solid 1px;
+        border-color: orange;
+        padding-top: 10px;
+        width: 100%;
+    }
+
+
+    .pedir-presupuesto-boton    {
+        text-align: center;
+        border-top: solid 1px;
+        border-color: orange;
+        padding-top: 20px;
+        width: 100%;
+    }   
+
     
+}
+
+
+
+// tablets
+
+@media screen and (max-width: 768px) {
+
+
+    .TITULO  {
+        font-size:16px;
+    }
+
+    .PARRAFO-TITULO {
+        font-size: 14px;
+    }
+
+
+    .boton  {
+        font-size: 12px;
+    }
+
+
+    .titulo-principal   {
+        text-align: center;
+        margin-bottom: 30px;
+    }
+
+
+    .texto-carrusel {
+      text-align: center;
+    }
+
+    .text-warning   {
+        text-align: center;
+        border-top: solid 1px;
+        border-color: orange;
+        padding-top: 10px;
+        
+    }
+
+    .pedir-presupuesto-boton    {
+        text-align: center;
+        border-top: solid 1px;
+        border-color: orange;
+        padding-top: 20px;
+        
+    }   
+
+    .contactar-redes    {
+        margin-top: 60px;
+    }
+
+    .fondo-footer-2     {
+        margin-top: 1px;
+    }
+
+    .solicitar-informacion  {
+        margin-top: 30px;
+    }
+}
+
+
+
+// celular
+
+@media screen and (max-width: 480px) {
+
+    .TITULO  {
+        font-size:10px;
+    }
+
+    .PARRAFO-TITULO {
+        font-size: 8px;
+    }
+
+
+    .boton  {
+        font-size: 6px;
+    }
+
+
+    .texto-carrusel {
+      text-align: center;
+    }
+
+    .text-warning   {
+        text-align: center;
+        border-top: solid 1px;
+        border-color: orange;
+        padding-top: 10px;
+    }
+
+    .pedir-presupuesto-boton    {
+        text-align: center;
+        border-top: solid 1px;
+        border-color: orange;
+        padding-top: 20px;
+        
+    }   
+
+    .contactar-redes    {
+        margin-top: 60px;
+    }
+
+    .fondo-footer-2     {
+        margin-top: 1px;
+    }
+
+    .solicitar-informacion  {
+        margin-top: 30px;
     }
 }

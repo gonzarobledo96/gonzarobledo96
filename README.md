@@ -10,11 +10,16 @@
 
 <h3 align="center">Conectate conmigo:</h3>
 <p align="center">
-<a href="https://www.facebook.com/gonzalo.robledo.5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sky.git" height="50" width="60" /></a>
-<a href="https://www.instagram.com/gonzarobledo1996/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sky.git" height="50" width="60" /></a>
-<a href="https://www.youtube.com/c/skygit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="skygit" height="50" width="60" /></a>
+    <a href="https://www.facebook.com/gonzalo.robledo.5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sky.git" height="50" width="60" /></a>
+    <a href="https://www.instagram.com/gonzarobledo1996/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sky.git" height="50" width="60" /></a>
+    <a href="https://www.youtube.com/c/skygit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="skygit" height="50" width="60" /></a>
 </p>
 
 
 <h3 align="center">Lenguages y herramientas:</h3>
-<p align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5"  width="60" height="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript"  width="60" height="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react"  width="60" height="50"/> </p>
+<p align="center">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="50"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5"  width="60" height="50">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript"  width="60" height="50">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react"  width="60" height="50">
+</p>

@@ -4,8 +4,8 @@
 <h1 align="center">Hola👋, Soy GONZALO</h1>
 <h3 align="center">Un apasionado desarrollador y desarrollador web junior en busca de oportunidades para aprender y crecer. Apasionado por el diseño web y la creación de soluciones interactivas. Abierto a colaboraciones y dispuesto a asumir nuevos desafíos.</h3>
 
-<h3 align="left">Conectate conmigo:</h3>
-<p align="left">
+<h3 align="center">Conectate conmigo:</h3>
+<p align="center">
 <a href="https://fb.com/sky.git" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sky.git" height="30" width="40" /></a>
 <a href="https://instagram.com/sky.git" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sky.git" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/skygit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="skygit" height="30" width="40" /></a>

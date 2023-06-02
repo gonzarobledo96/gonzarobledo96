@@ -21,7 +21,7 @@
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://www.facebook.com/"><img width="32px" alt="Instagram" title="Instagram" src="https://i.imgur.com/XFGZLcO.png"/></a>
+  <a href="https://www.facebook.com/"><img width="32px" alt="Instagram" title="Instagram" src="https://imgur.com/XFGZLcO"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://twitter.com/DenverCoder1"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
@@ -33,6 +33,15 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="http://eyl327.mywebcommunity.org/promos/"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a>
 </p>
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://fb.com/sky.git" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sky.git" height="30" width="40" /></a>
+<a href="https://instagram.com/sky.git" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sky.git" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/skygit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="skygit" height="30" width="40" /></a>
+</p>
+
 
 <br/>
 

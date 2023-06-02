@@ -1,8 +1,8 @@
-<div align="center">
+<h1 align="center">
     <img src="https://i.imgur.com/1gQiLB5.gif" width="auto">
-    <h1 align="center">Hola👋, Soy GONZALO</h1>
-    <h3 align="center">Un apasionado desarrollador.</h3>
-</div>
+</h1>
+<h1 align="center">Hola👋, Soy GONZALO</h1>
+<h3 align="center">Un apasionado desarrollador.</h3>
 
 - 🌱 I’m currently learning **React Native**
 

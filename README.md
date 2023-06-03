@@ -1,7 +1,7 @@
 <h1 align="center">
     <img src="https://i.imgur.com/UfDcIcw.gif" width="auto">
 </h1>
-<h1 align="center">Hola👋, Soy Gonzalo</h1>
+<h1 align="center">🏆🏆🏆</h1>
 <h3 align="center">Un apasionado desarrollador y desarrollador web apasionado por el diseño web y la creación de soluciones interactivas.</h3>
 
 

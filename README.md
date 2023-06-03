@@ -43,7 +43,7 @@
   <img align="center" src="https://i.imgur.com/z7XPbMT.jpg" width="150" height="160" />
 </a>
 <a href="https://github.com/gonzarobledo96/Verduleria-Natural">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" width="150" height="160" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy"  />
 </a>
 
 <br />

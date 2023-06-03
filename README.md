@@ -34,13 +34,13 @@
 <h3 align="center">Proyectos personales</h3>
 
 <a href="https://github.com/gonzarobledo96/GNC-LURO">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
+  <img align="center" src="https://i.imgur.com/XfEDuJU.jpg" />
 </a>
 <a href="https://github.com/gonzarobledo96/Verduleria-Natural">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
+  <img align="center" src="https://i.imgur.com/HzxEZhJ.jpg" />
 </a>
 <a href="https://github.com/gonzarobledo96/Transporte-Raul">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
+  <img align="center" src="https://i.imgur.com/z7XPbMT.jpg" />
 </a>
 <a href="https://github.com/gonzarobledo96/Verduleria-Natural">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />

@@ -1,5 +1,5 @@
 <div>
-    <img src="https://i.imgur.com/UfDcIcw.gif" width="auto">
+    <img align="center" src="https://i.imgur.com/UfDcIcw.gif" width="auto">
     <h1 align="center">🏆🏆🏆</h1>
     <h3 align="center">Hola soy Gonzalo. Sou un diseñador y desarrollador web apasionado por el diseño web y la creación de soluciones interactivas.</h3>
 </div>

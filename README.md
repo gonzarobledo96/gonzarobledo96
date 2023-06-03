@@ -28,6 +28,8 @@
     <img src="https://i.imgur.com/jlJIWLg.png" alt="Bootstrap logo"  alt="react"  width="60" height="50">
 </p>
 
+<br />
+<br />
 
 <h3 align="center">Proyectos personales</h3>
 

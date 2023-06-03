@@ -42,10 +42,6 @@
 <a href="https://github.com/gonzarobledo96/Transporte-Raul">
   <img align="center" src="https://i.imgur.com/Vkgiby3.jpg" />
 </a>
-
-<br />
-<br />
-
 <a href="https://github.com/gonzarobledo96/Verduleria-Natural">
   <img align="center" src="https://i.imgur.com/Vkgiby3.jpg" />
 </a>

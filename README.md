@@ -36,15 +36,9 @@
 <a href="https://github.com/gonzarobledo96/GNC-LURO">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
 </a>
-
-<br />
-
 <a href="https://github.com/gonzarobledo96/Verduleria-Natural">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
 </a>
-
-<br />
-
 <a href="https://github.com/gonzarobledo96/Transporte-Raul">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
 </a>

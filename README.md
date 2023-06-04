@@ -34,11 +34,11 @@
 <h3 align="center">Proyectos personales</h3>
 
 <a href="https://github.com/gonzarobledo96/GNC-LURO">
-  <img align="center" src="https://i.imgur.com/rfuSM2a.jpg" />
+  <img align="center" src="https://i.imgur.com/qb9XyMm.jpg" />
 </a>
 
 <a href="https://github.com/gonzarobledo96/Verduleria-Natural">
-  <img align="center" src="https://i.imgur.com/P3mFRVi.jpg" />
+  <img align="center" src="https://i.imgur.com/Eiej0AQ.jpg" />
 </a>
 
 <a href="https://github.com/gonzarobledo96/Transporte-Raul">

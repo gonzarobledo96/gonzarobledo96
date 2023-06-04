@@ -38,15 +38,15 @@
 </a>
 
 <a href="https://github.com/gonzarobledo96/Verduleria-Natural">
-  <img align="center" src="https://i.imgur.com/rfuSM2a.jpgg" />
+  <img align="center" src="https://i.imgur.com/P3mFRVi.jpg" />
 </a>
 
 <a href="https://github.com/gonzarobledo96/Transporte-Raul">
-  <img align="center" src="https://i.imgur.com/rfuSM2a.jpg" />
+  <img align="center" src="https://i.imgur.com/BdOCBWV.jpg" />
 </a>
 
-<a href="https://github.com/gonzarobledo96/Verduleria-Natural">
-  <img align="center" src="https://i.imgur.com/rfuSM2a.jpg" />
+<a href="https://github.com/gonzarobledo96/PORTFOLIO">
+  <img align="center" src="https://i.imgur.com/kXE6DL5.jpg" />
 </a>
 
 <br />

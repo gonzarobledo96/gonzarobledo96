@@ -13,7 +13,7 @@
 <p align="center">
     <a href="https://www.facebook.com/gonzalo.robledo.5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sky.git" height="50" width="60" /></a>
     <a href="https://www.instagram.com/gonzarobledo1996/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sky.git" height="50" width="60" /></a>
-    <a href="https://www.youtube.com/c/skygit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="skygit" height="50" width="60" /></a>
+    <a href="https://www.linkedin.com/in/gonzalo-robledo-b5811023b/" target="blank"><img align="center" src="https://i.imgur.com/jaDxbLg.png" alt="skygit" height="50" width="60" /></a>
 
 <br />
 <br />

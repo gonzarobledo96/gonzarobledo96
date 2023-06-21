@@ -57,3 +57,6 @@
 <a href="https://www.figma.com/file/5Qno9JX5N5B112hiX3SZ0l/1-dise%C3%B1o?type=design&node-id=0-1&t=kTnDNn8pCQ8m3dzk-0">
   <img align="center" src="https://i.imgur.com/7umPmDq.jpg" />
 </a>
+<a href="https://www.figma.com/file/Z0PC0OhNN2VTtyYKFuQvvO/dise%C3%B1o-2?type=design&node-id=0-1&t=4DPZQNMFWmM7X1qL-0">
+  <img align="center" src="https://i.imgur.com/jcJEwqa.jpg" />
+</a>

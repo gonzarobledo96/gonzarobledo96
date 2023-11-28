@@ -26,7 +26,8 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript"  width="60" height="50">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react"  width="60" height="50">
     <img src="https://i.imgur.com/jlJIWLg.png" alt="Bootstrap logo"  alt="react"  width="60" height="50">
-    <img src="URL_DEL_LOGO_DE_TAILWIND" alt="Tailwind CSS" width="60" height="50">
+    <img src="https://raw.githubusercontent.com/tailwindlabs/heroicons/master/src/outline/color-swatch.svg" alt="Tailwind CSS" width="60" height="50">
+
 </p>
 
 <br />

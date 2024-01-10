@@ -55,7 +55,7 @@
 <br />
 
 <h3 align="center">🎨 Proyectos con Figma 🎨</h3>
-<h3> Actualmente,  estoy aprendiendo a utilizar Figma para mejorar mis habilidades de diseño. Explorando la creación de diseños visualmente atractivos y funcionales. </h3>
+<h3> Tambien utilizo Figma para crear mis proyectos. </h3>
 <a href="https://www.figma.com/file/5Qno9JX5N5B112hiX3SZ0l/1-dise%C3%B1o?type=design&node-id=0-1&t=kTnDNn8pCQ8m3dzk-0">
   <img align="center" src="https://i.imgur.com/7umPmDq.jpg" />
 
